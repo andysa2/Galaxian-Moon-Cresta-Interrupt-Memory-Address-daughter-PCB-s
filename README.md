@@ -1,6 +1,6 @@
 # Galaxian & Moon Cresta address and interrupt configuration daughterboards
 
-These PCB's facilitate breaking out the Interrupt and Address selection lines on Midway and Nichibutsu style arcade boards (also known as Galaxian Hardware).
+These PCB's facilitate breaking out the Interrupt and Memory Addressing selection lines on Midway and Nichibutsu style arcade boards (also known as Galaxian Hardware).
 
 Allows for the remapping of hardware to suit either Galaxian, Moon Cresta, Moon Alien, Moon Alien II or Moon Quasar firmware.
 
